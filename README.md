@@ -40,7 +40,7 @@ Las tecnologías utilizadas podrán incluir:
 
 🚧 En desarrollo
 
-Este repositorio se actualizará constantemente conforme avance en el bootcamp y adquiera nuevos conocimientos.
+Este repositorio se actualizará constantemente conforme avance en el bootcamp y adquiera nuevos conocimientos y nueva documentacion 
 
 ## Autor
 
